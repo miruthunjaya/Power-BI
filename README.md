@@ -20,7 +20,7 @@ These dashboards were created using sample datasets or public/open data sources.
 - **DAX (Data Analysis Expressions)** – for building custom measures and KPIs
 - **Power Query** – for data cleaning and transforming raw data
 - **Data modeling** – for creating relationships and optimized models
-- 
+
 ## 🧠 My Approach
 
 - Focus on **clarity**: Clean, user-friendly visuals
