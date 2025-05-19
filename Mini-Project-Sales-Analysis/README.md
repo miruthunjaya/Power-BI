@@ -67,4 +67,11 @@ This mini project was structured into clear modules as part of the workshop:
 ```
 ---
 
+## 📈 Final Dashboard
+
+![Dashboard preview](visuals/dashboard.png)
+
+---
+
+
 ### ⭐ Rate this project if you find it useful or inspiring.
